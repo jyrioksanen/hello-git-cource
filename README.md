@@ -1,1 +1,2 @@
-# hello-git-cource
+
+# This is a README
